@@ -56,10 +56,10 @@ These transformer-based models are used with no fine-tuning to evaluate zero-sho
 - Bhavesh Kurella
 - Akhil Reddy Chimmula
 
-Course: AIT526-001 – NLP
-Instructor: Dr. Ray Islam
-Institution: George Mason University
-Date: May 9, 2024
+- Course: AIT526-001 – NLP
+- Instructor: Dr. Ray Islam
+- Institution: George Mason University
+- Date: May 9, 2024
 ---
 
 ## 🔮 Future Work
